@@ -4,6 +4,7 @@
 # See http://rollingyours.wordpress.com
 ## 
 
+data(mtcars)
 myGeo <- function(address="Atlanta,GA") {
  
 # Make sure we have the required libraries to do the work
